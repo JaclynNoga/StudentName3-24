@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\studentNameConsoleAppLists3-24\studentNameConsoleAppLists3-24\bin\Debug\studentNameConsoleAppLists3-24.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\studentNameConsoleAppLists3-24\studentNameConsoleAppLists3-24\bin\Debug\studentNameConsoleAppLists3-24.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\studentNameConsoleAppLists3-24\studentNameConsoleAppLists3-24\bin\Debug\studentNameConsoleAppLists3-24.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\studentNameConsoleAppLists3-24\studentNameConsoleAppLists3-24\obj\Debug\studentNameConsoleAppLists3-24.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\studentNameConsoleAppLists3-24\studentNameConsoleAppLists3-24\obj\Debug\studentNameConsoleAppLists3-24.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\studentNameConsoleAppLists3-24\studentNameConsoleAppLists3-24\obj\Debug\studentNameConsoleAppLists3-24.pdb
